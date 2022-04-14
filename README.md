@@ -1,7 +1,7 @@
 # Lógica de programação 
 
 ## Resolução de exercícios 🚀
-### semana 3
+#### semana 3
 
 ---
 
